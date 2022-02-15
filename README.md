@@ -6,7 +6,7 @@
  + Text file symbol calculator to show estimated price of translation (doc, docx included) 
  + User authorization
  + Chat section
- --- Chat functionality (back-end)
+ + Chat functionality (not finished)
  
  ### Used tools:
  + HTML, CSS, JS
